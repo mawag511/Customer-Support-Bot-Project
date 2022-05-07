@@ -1,2 +1,4 @@
-api_id = 9261248
-api_hash = '7466487df8fc84a6c18c40034d2d6533'
+api_id = 'Your API ID'
+api_hash = 'Your API Hash'
+
+#To find this information go on https://my.telegram.org/auth?to=apps , sign with your account and create an app/project
