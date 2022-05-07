@@ -1,1 +1,3 @@
-5138689651:AAEQjC9CIGDY79ENGAimPj_z7u17vebigiE
+'YOUR TOKEN'
+
+#To get the token, find @Bothfather on Telegram and create a bot
