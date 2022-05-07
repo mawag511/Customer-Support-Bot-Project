@@ -4,7 +4,7 @@
 ### Includes:
 - JSON file with exemplary training data;
 - Jupyter Notebook file containing the training of the bot's AI model;
-- Python files with bot;
+- Python files with bot and notifier;
 - SQLite DB
 
 ### Bot includes:
