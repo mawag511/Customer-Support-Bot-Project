@@ -1,0 +1,26 @@
+{"requests": [
+	{"tag": "greeting",
+		"patterns": ["hello", "hey", "hi", "hello bot", "goodday", "good day", "greetings", "good evening", "goodevening", "heya"],
+		"responses": ["Good day! How can i help you?", "Hello! How may i help?", "Greetings, how can i help?"]
+	},
+	{"tag": "goodbye",
+		"patterns": ["thank you, good bye", "thanks, good bye", "thanks bye", "bye", "bye bye", "thank you", "alright", "byebye", "goodbye", "thank you, goodbye", "thanks goodbye", "ok", "okay"],
+		"responses": ["Thank you for using our service!"]
+	},
+	{"tag": "contact_request",
+		"patterns": ["could i get the contacts of the firm?", "could i get the contacts of the company?", "what are the contacts of the firm?", "what are the contacts of the company?", "can i get a link to the site?", "what's the link to the site?", "site link", "contacts", "how to contact the firm?", "how to contact the company?", "i need the contact information of the firm", "i need the contact information of the company", "may i get the contact info?", "i need contact information", "can i get company info", "can i get firm info"],
+		"responses": ["All the information of the firm is available on the site (site link)"]
+	},
+	{"tag": "injector_availability_request",
+		"patterns": ["is 0445234586 available?", "do you have 0442964646?", "can i buy injector 0445110345?", "i want to purchase injector 044296458646", "i need 0445250758", "i need this injector 0445327974", "injector 0445327978 availability"],
+		"responses": [""]
+	},
+	{"tag": "injector_information_request",
+		"patterns": ["injector info 0445234586", "i need information about injector 0445824586", "i need info about injector 0445829186", "injector 0445234386 information", "can i get information on the injector 0442964546", "info on 0445250758", "details about 044296458646"],
+		"responses": [""]
+	},
+	{"tag": "unidentified",
+		"patterns": [""],
+		"responses": ["I'm sorry, i think i didn't quite get what you're trying to say. Please word your sentence differently, so that i can understand a bit better!"]
+	}
+]}
