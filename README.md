@@ -1,6 +1,6 @@
 # CustomerSupportBot
 
-## Final diploma project: Telegram Customer Support Bot for technical equipment making firms/companies/factories
+## Final diploma project: Creation of customer support bot in python for telegram channels of stores that sell technical and electronic equipment
 ### Includes:
 - JSON file with exemplary training data;
 - Jupyter Notebook file containing the training of the bot's AI model;
