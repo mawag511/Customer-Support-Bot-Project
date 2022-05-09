@@ -3,7 +3,7 @@
 """
 import unittest
 import sys
-sys.path.append('../Customer-Support-Bot-Project')
+sys.path.append('../Customer-Support-Bot-Project-main')
 from bot import predict_class
 
 class PredictionTest(unittest.TestCase):
