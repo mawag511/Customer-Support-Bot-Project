@@ -19,3 +19,4 @@
 - After downloading the zip file, create a virtual environment and install the requirements within it with the command: 
   python -m pip install -r requirements.txt
 - Add your bot Token and, if integration test is needed, add API ID and API Hash
+- If the folder name is changed, update the path in predictions_test.py if needed
